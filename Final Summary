@@ -1,0 +1,5 @@
+Concept -	Meaning -	Example
+Class & Object -	A class is a blueprint, and an object is something made from it. - Car blueprint → Real car 🚗
+Encapsulation -	Hiding data inside a class. -	Piggy bank 🐷💰
+Inheritance -	A class can get features from another class. -	Parent → Child 👶
+Polymorphism -	One function works differently for different objects. -	TV remote 📺
